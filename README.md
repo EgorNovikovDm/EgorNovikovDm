@@ -1,6 +1,6 @@
 - 👋 Привет, я @EgorNovikov
 - 👀 Изучаю языки программирования: PHP, JS;
-- 🗻 Изучаю фреймвоки: Laravel, Vue;
+- 🗻 Изучаю фреймворки: Laravel, Vue;
 - 📫 Куда мне писать? 
  VK: https://vk.com/id415961801
  Mail: egor.novikov.1979@mail.ru
