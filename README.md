@@ -3,7 +3,6 @@
 - 📫 Куда мне писать? 
    VK: https://vk.com/id415961801
    Mail: egor.novikov.1979@mail.ru
-- 🔥 Inst: https://www.instagram.com/egoriynovikov/
 
 
 
