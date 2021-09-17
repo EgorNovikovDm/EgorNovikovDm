@@ -1,5 +1,5 @@
 - 👋 Привет, я Егор Новиков
-- 👀 Изучаю языки программирования/фреймворки: PHP, JS, Laravel, Vue;
+- 👀 Изучаю языки программирования/фреймворки: PHP, JS, Laravel, Vue, React, typescript;
 - 📫 Куда мне писать? 
    VK: https://vk.com/id415961801
    Mail: egor.novikov.1979@mail.ru
